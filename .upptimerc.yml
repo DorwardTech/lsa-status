@@ -23,7 +23,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Zone 3 Darwin
+    - title: Personal Site
       href: https://tr1cky.au
-    - title: Zone 3 Darwin
-      href: https://zone3darwin.com.au
