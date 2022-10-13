@@ -4,15 +4,26 @@ repo: status
 sites:
   - name: Laser Sports Archive
     url: https://archive.lasersports.au
+    maxResponseTime: 5000
+  - name: Laser Sports League Manager
+    url: https://lslm.lasersports.au
+    maxResponseTime: 5000
+  - name: Laser Sports Competition Manager
+    url: https://lscm.lasersports.au
+    maxResponseTime: 5000
+ 
 
 status-website:
+  theme: dark
   cname: status.tr1cky.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: DorwardTech Uptime
-  introTitle: "**Upptime** Tr1cky's active projects / Services"
+  name: Live Status - Tr1cky
+  introTitle: "**Tr1cky's Active Projects / Services**"
   introMessage: Things & Stuff
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Zone 3 Darwin
+      href: https://tr1cky.au
+    - title: Zone 3 Darwin
+      href: https://zone3darwin.com.au
