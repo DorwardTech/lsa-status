@@ -10,11 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2293,
-    "timeDay": 2293,
-    "timeWeek": 2293,
-    "timeMonth": 2293,
-    "timeYear": 2293,
+    "time": 1827,
+    "timeDay": 1827,
+    "timeWeek": 1827,
+    "timeMonth": 1827,
+    "timeYear": 1827,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Laser Sports League Manager",
+    "url": "https://lslm.lasersports.au",
+    "icon": "https://icons.duckduckgo.com/ip3/lslm.lasersports.au.ico",
+    "slug": "laser-sports-league-manager",
+    "status": "down",
+    "uptime": "26.61%",
+    "uptimeDay": "26.61%",
+    "uptimeWeek": "26.61%",
+    "uptimeMonth": "26.61%",
+    "uptimeYear": "26.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
+  },
+  {
+    "name": "Laser Sports Competition Manager",
+    "url": "https://lscm.lasersports.au",
+    "icon": "https://icons.duckduckgo.com/ip3/lscm.lasersports.au.ico",
+    "slug": "laser-sports-competition-manager",
+    "status": "down",
+    "uptime": "11.02%",
+    "uptimeDay": "11.02%",
+    "uptimeWeek": "11.02%",
+    "uptimeMonth": "11.02%",
+    "uptimeYear": "11.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   }
 ]
