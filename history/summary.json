@@ -4,18 +4,20 @@
     "url": "https://archive.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/archive.lasersports.au.ico",
     "slug": "laser-sports-archive",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1789,
     "timeDay": 1789,
     "timeWeek": 1789,
     "timeMonth": 1789,
     "timeYear": 1789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 0
+    }
   },
   {
     "name": "Laser Sports League Manager",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 170,
+      "2022-10-14": 188,
       "2022-10-13": 649
     }
   },
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 170,
+      "2022-10-14": 188,
       "2022-10-13": 649
     }
   }
