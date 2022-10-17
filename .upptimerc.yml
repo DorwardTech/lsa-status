@@ -17,7 +17,7 @@ sites:
 
 status-website:
   theme: dark
-  cname: status.tr1cky.au
+  cname: status.lasersports.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Live Status - Laser Sports Archive
   introTitle: "**Laser Sports Archive Status**"
