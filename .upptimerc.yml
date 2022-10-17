@@ -5,6 +5,12 @@ sites:
   - name: Laser Sports Archive
     url: https://archive.lasersports.au
     maxResponseTime: 5000
+  - name: Laser Sports Archive API
+    method: POST
+    url: https://archive.lasersports.au/api/v2/authorize
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "access_token": "$LSA_API_KEY", "account_id": "$LSA_USER_ID" }'
   - name: Laser Sports League Manager
     url: https://lslm.lasersports.au
     maxResponseTime: 5000
