@@ -12,6 +12,7 @@ sites:
   - name: Laser Sports Archive - Cloudflare R2 Storage
     check: "tcp-ping"
     url: $R2_ENDPOINT
+    port: 80
     
 
 status-website:
