@@ -9,13 +9,9 @@ sites:
   - name: Laser Sports Archive - API
     url: https://archive.lasersports.au/api/v2/authorize?key1=$LSA_KEY_1&key2=$LSA_KEY_2
     
-  - name: Laser Sports Archive - Cloudflare R2 Storage (ZLTAC)
-    url: $R2_ENDPOINT/zltac
-    maxResponseTime: 5000
-    
-  - name: Laser Sports Archive - Cloudflare R2 Storage (THEARCHIVE)
-    url: $R2_ENDPOINT/thearchive
-    maxResponseTime: 5000
+  - name: Laser Sports Archive - Cloudflare R2 Storage
+    check: "tcp-ping"
+    url: $R2_ENDPOINT
     
 
 status-website:
