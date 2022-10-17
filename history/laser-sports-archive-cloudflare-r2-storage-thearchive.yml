@@ -1,7 +1,7 @@
-url: https://8da8270d73b1b88638c9051fb8c8da2d.r2.cloudflarestorage.com/thearchive
+url: $R2_ENDPOINT/thearchive
 status: down
-code: 400
-responseTime: 12
-lastUpdated: 2022-10-17T16:09:06.142Z
+code: 0
+responseTime: 0
+lastUpdated: 2022-10-17T16:11:44.620Z
 startTime: Mon Oct 17 2022 16:04:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
