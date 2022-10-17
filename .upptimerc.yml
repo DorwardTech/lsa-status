@@ -4,16 +4,9 @@ repo: lsa-status
 sites:
   - name: Laser Sports Archive
     url: https://archive.lasersports.au
-    maxResponseTime: 5000
     
   - name: Laser Sports Archive - API
     url: https://archive.lasersports.au/api/v2/authorize?key1=$LSA_KEY_1&key2=$LSA_KEY_2
-    
-  - name: Laser Sports Archive - Cloudflare R2 Storage
-    check: "tcp-ping"
-    url: $R2_ENDPOINT
-    port: 80
-    
 
 status-website:
   theme: dark
@@ -27,3 +20,5 @@ status-website:
       href: /
     - title: Laser Sports Archive
       href: https://archive.lasersports.au
+    - title: Contact
+      href: https://tr1cky.au
