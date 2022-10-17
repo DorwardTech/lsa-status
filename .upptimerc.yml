@@ -5,25 +5,25 @@ sites:
   - name: Laser Sports Archive
     url: https://archive.lasersports.au
     maxResponseTime: 5000
-  - name: Laser Sports Archive API
+  - name: Laser Sports Archive - API
     url: https://archive.lasersports.au/api/v2/authorize?key1=$LSA_KEY_1&key2=$LSA_KEY_2
-  - name: Laser Sports League Manager
-    url: https://lslm.lasersports.au
+  - name: Laser Sports Archive - Cloudflare R2 Storage (ZLTAC)
+    url: https://8da8270d73b1b88638c9051fb8c8da2d.r2.cloudflarestorage.com/zltac
     maxResponseTime: 5000
-  - name: Laser Sports Competition Manager
-    url: https://lscm.lasersports.au
+  - name: Laser Sports Archive - Cloudflare R2 Storage (THEARCHIVE)
+    url: https://8da8270d73b1b88638c9051fb8c8da2d.r2.cloudflarestorage.com/thearchive
     maxResponseTime: 5000
- 
+    
 
 status-website:
   theme: dark
   cname: status.tr1cky.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Live Status - Tr1cky
-  introTitle: "**Tr1cky's Active Projects / Services**"
-  introMessage: Things & Stuff
+  name: Live Status - Laser Sports Archive
+  introTitle: "**Laser Sports Archive Status**"
+  introMessage: Laser Sports Archival Project
   navbar:
     - title: Status
       href: /
-    - title: Personal Site
-      href: https://tr1cky.au
+    - title: Laser Sports Archive
+      href: https://archive.lasersports.au
