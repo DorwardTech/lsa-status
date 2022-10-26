@@ -1,7 +1,7 @@
 url: https://archive.lasersports.au/api/v2/authorize?key1=$LSA_KEY_1&key2=$LSA_KEY_2
 status: up
 code: 200
-responseTime: 241
-lastUpdated: 2022-10-25T23:06:30.444Z
+responseTime: 278
+lastUpdated: 2022-10-26T23:06:32.973Z
 startTime: Mon Oct 17 2022 15:32:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
